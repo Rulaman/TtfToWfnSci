@@ -1,0 +1,8 @@
+C:\DATEN\Development\VisualStudio\TtfToWfnSci\TTF-Test\bin\Release\TTF-Test.exe
+C:\DATEN\Development\VisualStudio\TtfToWfnSci\TTF-Test\bin\Release\TTF-Test.pdb
+C:\DATEN\Development\VisualStudio\TtfToWfnSci\TTF-Test\obj\Release\ResolveAssemblyReference.cache
+C:\DATEN\Development\VisualStudio\TtfToWfnSci\TTF-Test\obj\Release\TTF_Test.MainWindow.resources
+C:\DATEN\Development\VisualStudio\TtfToWfnSci\TTF-Test\obj\Release\TTF_Test.Properties.Resources.resources
+C:\DATEN\Development\VisualStudio\TtfToWfnSci\TTF-Test\obj\Release\TTF-Test-2005.csproj.GenerateResource.Cache
+C:\DATEN\Development\VisualStudio\TtfToWfnSci\TTF-Test\obj\Release\TTF-Test.exe
+C:\DATEN\Development\VisualStudio\TtfToWfnSci\TTF-Test\obj\Release\TTF-Test.pdb

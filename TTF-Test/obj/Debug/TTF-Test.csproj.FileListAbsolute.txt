@@ -1,0 +1,8 @@
+X:\Development\Sourcecodes\ProjekteAbgeschlossen\WFN\TtfToWfnSci\TTF-Test\bin\Debug\TTF-Test.exe
+X:\Development\Sourcecodes\ProjekteAbgeschlossen\WFN\TtfToWfnSci\TTF-Test\bin\Debug\TTF-Test.pdb
+X:\Development\Sourcecodes\ProjekteAbgeschlossen\WFN\TtfToWfnSci\TTF-Test\obj\Debug\TTF-Test.csprojResolveAssemblyReference.cache
+X:\Development\Sourcecodes\ProjekteAbgeschlossen\WFN\TtfToWfnSci\TTF-Test\obj\Debug\TTF_Test.MainWindow.resources
+X:\Development\Sourcecodes\ProjekteAbgeschlossen\WFN\TtfToWfnSci\TTF-Test\obj\Debug\TTF_Test.Properties.Resources.resources
+X:\Development\Sourcecodes\ProjekteAbgeschlossen\WFN\TtfToWfnSci\TTF-Test\obj\Debug\TTF-Test.csproj.GenerateResource.Cache
+X:\Development\Sourcecodes\ProjekteAbgeschlossen\WFN\TtfToWfnSci\TTF-Test\obj\Debug\TTF-Test.exe
+X:\Development\Sourcecodes\ProjekteAbgeschlossen\WFN\TtfToWfnSci\TTF-Test\obj\Debug\TTF-Test.pdb
